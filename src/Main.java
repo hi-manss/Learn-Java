@@ -5,7 +5,8 @@ import java.util.Random;
 public class Main {
     public static void main(String[] args) {
     Animal animal = new Animal();
-// asas
+// asasss
+// naos jlfds 
 
     animal.setId(10);
     animal.setName("HEllO");
